@@ -1,0 +1,12 @@
+name: electronicdice
+title:
+username:
+account: starlight504
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 877018
+bundleId: 2026928
+url: https://starlight504.shinyapps.io/electronicdice/
+when: 1555865875.66833
+asMultiple: FALSE
+asStatic: FALSE
